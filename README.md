@@ -51,8 +51,8 @@ Cada pasta de capítulo contém:
 
 | Capítulo | Tema | Status |
 |---|---|--|
-| 1 | Introdução à busca binária | 🟨 |
-| 2 | Arrays e listas ligadas | ⬜ |
+| 1 | Introdução à busca binária | ✅ |
+| 2 | Arrays e listas ligadas | 🟨 |
 | 3 | Recursão | ⬜ |
 | 4 | Quicksort | ⬜ |
 | 5 | Tabelas hash | ⬜ |
