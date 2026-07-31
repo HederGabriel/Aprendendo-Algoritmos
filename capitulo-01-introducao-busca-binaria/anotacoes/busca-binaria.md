@@ -17,7 +17,7 @@ A busca binária diminui **muito** a quantidade de etapas em uma requisição de
 
 ### Etapas Máximas no Pior dos Casos
 
-$$\lfloor \log_2 n \rfloor + 1$$
+$$O\lfloor \log_2 n \rfloor + 1$$
 
 ---
 
