@@ -55,9 +55,9 @@ $$O\lfloor \log_2 n \rfloor$$
 |:------------------------------|:---------------------------------------|
 | Tempo logarítmico             | $$O(\lfloor \ log \  n \rfloor\ + 1)$$ |
 | Tempo linear                  | $$O(n)$$                               |
-| Algoritmo rápido de ordenação | $$O(n \log n)$$                        |
+| Algoritmo rápido de ordenação | $$O(n \cdot \log n)$$                  |
 | Algoritmo lento de ordenação  | $$O(n^2)$$                             |
-| Algoritmo bastante lento      | $$O(n!)$$                              |
+| Tempo Fatorial                | $$O(n!)$$                              |
 
 ![Exemplificação](img/tempo.png)
 
