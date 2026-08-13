@@ -53,8 +53,8 @@ Cada pasta de capítulo contém:
 |---|---|--|
 | 1 | Introdução à busca binária | ✅ |
 | 2 | Arrays e listas ligadas | ✅ |
-| 3 | Recursão | 🟨 |
-| 4 | Quicksort | ⬜ |
+| 3 | Recursão | ✅ |
+| 4 | Quicksort | 🟨 |
 | 5 | Tabelas hash | ⬜ |
 | 6 | Busca em largura (BFS) | ⬜ |
 | 7 | Algoritmo de Dijkstra | ⬜ |
