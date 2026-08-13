@@ -22,3 +22,16 @@ A recursão ocorre quando uma função **chama a si mesma** durante sua execuç�
 
 * **Uso Amplo:** Muitos algoritmos clássicos (como *Quicksort*, *Merge Sort* e travessia de árvores) utilizam a recursão.
 * **Caso Base:** Toda função recursiva precisa de uma condição de parada (*caso base*) para evitar execução infinita e o estouro da pilha de memória (*stack overflow*).
+
+---
+
+## Recapitulando
+Recursão é quando uma função chama a si mesmo.
+
+### Toda função recursiva tem [dois casos](casos.md):
+- caso-base
+- caso *recursivo*
+
+### Uma pilha tem duas operações: 
+- [push](push-pop.md#-push-empilhar)
+- [pop](push-pop.md#-pop-desempilhar)
